@@ -172,6 +172,7 @@ class weapon{
       this.uses = obj.uses;
     }
   }
+  //this thing
 
 /* ====================== GAME FUNCTIONS ============================ */
 
@@ -349,3 +350,5 @@ while (fighting) {
 }
 
 console.log(`Great job, ${hero.name}. You have successfully slain ${numVictories} villians.`);
+
+//this is here
